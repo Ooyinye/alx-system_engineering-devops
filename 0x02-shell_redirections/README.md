@@ -1,1 +1,1 @@
-this is my readme file on shell redirection
+script that displays a confused smiley
